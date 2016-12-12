@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 10,
+      "long": 14
+    },
+    "range": {
+      "close": 123,
+      "long": 35
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": true,
+      "sovietUnion": false,
+      "unitedStates": false
+    },
+    "name": "Jägerpatrone Kurz",
+    "price": {
+      "purchase": {
+        "credits": 2200,
+        "gold": 27
+      }
+    },
+    "quantity": 1000
+  }
+}

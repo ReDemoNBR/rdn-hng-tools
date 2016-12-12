@@ -1,0 +1,25 @@
+{
+  "sight": [
+    "No Sight Upgrade",
+    "Field Adjusted Sights",
+    "Match Sights"
+  ],
+  "trigger": [
+    "No Trigger Upgrade",
+    "Field Adjusted Trigger",
+    "Hair Trigger",
+    "Match Trigger"
+  ],
+  "internal": [
+    "No Internal Upgrade",
+    "Heavy Pistol Bolt",
+    "Heavy Pistol Spring",
+    "Light Pistol Bolt",
+    "Light Pistol Spring"
+  ],
+  "barrel": [
+    "No Barrel Upgrade",
+    "Chrome Lined Barrel",
+    "Stainless Steel Barrel"
+  ]
+}

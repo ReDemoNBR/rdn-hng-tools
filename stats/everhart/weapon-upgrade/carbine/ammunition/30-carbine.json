@@ -1,0 +1,18 @@
+{
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": false,
+      "unitedStates": true
+    },
+    "name": ".30 Carbine",
+    "price": {
+      "purchase": {
+        "credits": 570,
+        "gold": 0
+      }
+    },
+    "quantity": 1000
+  }
+}

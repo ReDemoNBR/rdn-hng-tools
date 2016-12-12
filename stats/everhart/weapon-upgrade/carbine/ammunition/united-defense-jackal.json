@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 15,
+      "long": 34
+    },
+    "range": {
+      "close": 10,
+      "long": 25
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": false,
+      "unitedStates": true
+    },
+    "name": "United Defense 'Jackal'",
+    "price": {
+      "purchase": {
+        "credits": 680,
+        "gold": 8
+      }
+    },
+    "quantity": 1000
+  }
+}

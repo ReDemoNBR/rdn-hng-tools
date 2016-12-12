@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 15,
+      "long": -10
+    },
+    "range": {
+      "close": -30,
+      "long": -26
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": true,
+      "sovietUnion": false,
+      "unitedStates": false
+    },
+    "name": "Wulff Faust",
+    "price": {
+      "purchase": {
+        "credits": 2300,
+        "gold": 27
+      }
+    },
+    "quantity": 1000
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 20,
+      "long": -9
+    },
+    "range": {
+      "close": -46,
+      "long": -33
+    },
+    "recoil": {
+      "horizontal": 0,
+      "vertical": 0,
+      "variation": 0
+    },
+    "inaccuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "Leonov Devil",
+    "price": {
+      "purchase": {
+        "credits": 2300,
+        "gold": 27
+      }
+    },
+    "quantity": 1000
+  }
+}

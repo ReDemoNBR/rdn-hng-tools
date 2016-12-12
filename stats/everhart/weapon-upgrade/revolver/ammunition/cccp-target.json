@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": -8,
+      "long": 20
+    },
+    "range": {
+      "close": 30,
+      "long": 10
+    },
+    "recoil": {
+      "horizontal": 0,
+      "vertical": 0,
+      "variation": 0
+    },
+    "inaccuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "CCCP Target",
+    "price": {
+      "purchase": {
+        "credits": 1700,
+        "gold": 20
+      }
+    },
+    "quantity": 1000
+  }
+}

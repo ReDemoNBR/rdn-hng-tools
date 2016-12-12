@@ -1,0 +1,11 @@
+{
+  "name": "Grenadier",
+  "description": "Increase damage dealt by explosives",
+  "value": {
+    "none": 1,
+    "bronze": 1.05,
+    "silver": 1.1,
+    "gold": 1.15,
+    "affects": "TODO"
+  }
+}

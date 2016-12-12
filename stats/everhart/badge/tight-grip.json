@@ -1,0 +1,11 @@
+{
+  "name": "Tight Grip",
+  "description": "Reduce inaccuracy expansion",
+  "value": {
+    "none": 1,
+    "bronze": 0.75,
+    "silver": 0.5,
+    "gold": 0.25,
+    "affects": "TODO"
+  }
+}

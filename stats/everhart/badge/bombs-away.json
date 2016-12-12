@@ -1,0 +1,11 @@
+{
+  "name": "Bombs Away",
+  "description": "Reduce time to resupply bombs for fighter planes",
+  "value": {
+    "none": 1,
+    "bronze": 0.85,
+    "silver": 0.7,
+    "gold": 0.55,
+    "affects": "TODO"
+  }
+}

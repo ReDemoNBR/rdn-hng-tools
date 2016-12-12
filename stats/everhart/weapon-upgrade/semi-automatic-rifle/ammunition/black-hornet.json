@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 5,
+      "long": 9
+    },
+    "range": {
+      "close": -9,
+      "long": -15
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": false,
+      "unitedStates": true
+    },
+    "name": "Black Hornet",
+    "price": {
+      "purchase": {
+        "credits": 1400,
+        "gold": 17
+      }
+    },
+    "quantity": 1000
+  }
+}

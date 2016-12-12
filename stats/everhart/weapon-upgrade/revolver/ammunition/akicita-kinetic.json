@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 8,
+      "long": -5
+    },
+    "range": {
+      "close": -16,
+      "long": -21
+    },
+    "recoil": {
+      "horizontal": 0,
+      "vertical": 0,
+      "variation": 0
+    },
+    "inaccuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": false,
+      "unitedStates": true
+    },
+    "name": "Akicita Kinetic",
+    "price": {
+      "purchase": {
+        "credits": 1400,
+        "gold": 16
+      }
+    },
+    "quantity": 1000
+  }
+}

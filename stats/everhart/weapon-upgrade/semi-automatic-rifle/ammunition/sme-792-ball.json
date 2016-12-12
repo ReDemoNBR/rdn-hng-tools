@@ -1,0 +1,18 @@
+{
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": true,
+      "sovietUnion": false,
+      "unitedStates": false
+    },
+    "name": "S.m.E. 7.92 ball",
+    "price": {
+      "purchase": {
+        "credits": 170,
+        "gold": 0
+      }
+    },
+    "quantity": 1000
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "7.62 TT",
+    "price": {
+      "purchase": {
+        "credits": 340,
+        "gold": 0
+      }
+    },
+    "quantity": 1000
+  }
+}

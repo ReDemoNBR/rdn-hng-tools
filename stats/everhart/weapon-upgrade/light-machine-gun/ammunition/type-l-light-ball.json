@@ -1,0 +1,18 @@
+{
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "Type L Light Ball",
+    "price": {
+      "purchase": {
+        "credits": 170,
+        "gold": 0
+      }
+    },
+    "quantity": 1000
+  }
+}

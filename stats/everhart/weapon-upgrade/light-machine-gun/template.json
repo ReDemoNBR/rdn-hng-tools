@@ -1,0 +1,21 @@
+{
+  "sight": [
+    "No Sight Upgrade",
+    "Field Adjusted Sights"
+  ],
+  "trigger": [
+    "No Trigger Upgrade",
+    "Field Trigger Job"
+  ],
+  "internal": [
+    "No Internal Upgrade",
+    "Heavy Bolt",
+    "Heavy Spring",
+    "Lightened Spring"
+  ],
+  "barrel": [
+    "No Barrel Upgrade",
+    "Chrome Lined Barrel",
+    "Stainless Steel Barrel"
+  ]
+}

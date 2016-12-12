@@ -1,0 +1,18 @@
+{
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": false,
+      "unitedStates": true
+    },
+    "name": "M2 .30-06 Ball",
+    "price": {
+      "purchase": {
+        "credits": 170,
+        "gold": 0
+      }
+    },
+    "quantity": 1000
+  }
+}

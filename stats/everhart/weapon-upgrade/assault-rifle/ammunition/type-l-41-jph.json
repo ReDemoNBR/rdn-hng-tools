@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 9.5,
+      "long": 0
+    },
+    "range": {
+      "close": -10,
+      "long": 32
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "Type L-41 JPH",
+    "price": {
+      "purchase": {
+        "credits": 1400,
+        "gold": 17
+      }
+    },
+    "quantity": 1000
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dynamite Lover",
+  "description": "Increase number of explosives carried",
+  "value": {
+    "none": 0,
+    "bronze": 1,
+    "silver": 2,
+    "gold": 3,
+    "affects": "TODO",
+    "unit": {
+      "singular": "explosive",
+      "plural": "explosives"
+    }
+  }
+}

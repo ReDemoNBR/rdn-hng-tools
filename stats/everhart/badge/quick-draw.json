@@ -1,0 +1,11 @@
+{
+  "name": "Quick Draw",
+  "description": "Reduce inaccuracy expansion on mouse movements",
+  "value": {
+    "none": 1,
+    "bronze": 0.75,
+    "silver": 0.5,
+    "gold": 0.25,
+    "affects": "TODO"
+  }
+}

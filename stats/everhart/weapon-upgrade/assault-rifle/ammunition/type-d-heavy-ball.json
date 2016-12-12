@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 24,
+      "long": -25
+    },
+    "range": {
+      "close": -20,
+      "long": 26
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "Type D Heavy Ball",
+    "price": {
+      "purchase": {
+        "credits": 2200,
+        "gold": 27
+      }
+    },
+    "quantity": 1000
+  }
+}

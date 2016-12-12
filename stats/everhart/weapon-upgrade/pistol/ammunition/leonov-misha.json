@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 13,
+      "long": 0
+    },
+    "range": {
+      "close": -16,
+      "long": -10
+    },
+    "recoil": {
+      "horizontal": 0,
+      "vertical": 0,
+      "variation": 0
+    },
+    "inaccuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": true,
+      "unitedStates": false
+    },
+    "name": "Leonov Misha",
+    "price": {
+      "purchase": {
+        "credits": 1400,
+        "gold": 16
+      }
+    },
+    "quantity": 1000
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 0,
+      "long": 0,
+      "againstVehicles": {
+        "maximum": 0,
+        "minimum": 0
+      }
+    },
+    "range": {
+      "close": 0,
+      "long": 0
+    },
+    "rateOfFire": 0,
+    "penetration": {
+      "maximum": 0,
+      "minimum": 0
+    },
+    "recoil": {
+      "horizontal": 0,
+      "vertical": 0,
+      "variation": 0
+    },
+    "inaccuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    },
+    "velocity": 0
+  },
+  "information": {
+    "faction": {
+      "germany": true,
+      "sovietUnion": true,
+      "unitedStates": true
+    },
+    "name": "",
+    "price": {
+      "purchase": {
+        "credits": 0,
+        "gold": 0
+      },
+      "repair": 0
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fast Reload",
+  "description": "Reduce time to reload a firearm",
+  "value": {
+    "none": 1,
+    "bronze": 0.9,
+    "silver": 0.8,
+    "gold": 0.6,
+    "affects": "TODO"
+  }
+}

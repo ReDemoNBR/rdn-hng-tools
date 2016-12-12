@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": 16,
+      "long": 15
+    },
+    "range": {
+      "close": 65,
+      "long": 22
+    },
+    "recoil": {
+      "horizontal": 0,
+      "hertical": 0,
+      "variation": 0
+    },
+    "innacuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": true,
+      "sovietUnion": false,
+      "unitedStates": false
+    },
+    "name": "Anschusspatrone s.S.",
+    "price": {
+      "purchase": {
+        "credits": 2900,
+        "gold": 35
+      }
+    },
+    "quantity": 1000
+  }
+}

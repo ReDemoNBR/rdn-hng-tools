@@ -1,0 +1,11 @@
+{
+  "name": "Iron Fist",
+  "description": "Increase damage done against vehicles if armor is thicker than 20mm",
+  "value": {
+    "none": 1,
+    "bronze": 1.075,
+    "silver": 1.15,
+    "gold": 1.25,
+    "affects": "TODO"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": true,
+      "sovietUnion": false,
+      "unitedStates": false
+    },
+    "name": "9mm Parabellum",
+    "price": {
+      "purchase": {
+        "credits": 340,
+        "gold": 0
+      }
+    },
+    "quantity": 1000
+  }
+}

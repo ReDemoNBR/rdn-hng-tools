@@ -1,0 +1,11 @@
+{
+  "name": "Infantry First",
+  "description": "Increase damage done against vehicles if armor is thinner than 20mm",
+  "value": {
+    "none": 1,
+    "bronze": 1.15,
+    "silver": 1.3,
+    "gold": 1.5,
+    "affects": "TODO"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Heavy Set",
+  "description": "Reduce damage taken",
+  "value": {
+    "none": 1,
+    "bronze": 0.95,
+    "silver": 0.9,
+    "gold": 0.85,
+    "affects": "TODO"
+  }
+}

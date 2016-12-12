@@ -1,0 +1,11 @@
+{
+  "name": "Gunner",
+  "description": "Reduce time to reload tank cannons",
+  "value": {
+    "none": 1,
+    "bronze": 0.95,
+    "silver": 0.9,
+    "gold": 0.8,
+    "affects": "TODO"
+  }
+}

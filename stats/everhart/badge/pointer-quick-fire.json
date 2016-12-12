@@ -1,0 +1,11 @@
+{
+  "name": "Pointer Quick Fire",
+  "description": "Reduce crosshair minimum size on hipfire",
+  "value": {
+    "none": 1,
+    "bronze": 0.75,
+    "silver": 0.5,
+    "gold": 0.25,
+    "affects": "TODO"
+  }
+}

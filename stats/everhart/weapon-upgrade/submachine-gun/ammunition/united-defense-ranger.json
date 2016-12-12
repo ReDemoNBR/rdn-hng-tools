@@ -1,0 +1,39 @@
+{
+  "statistics": {
+    "damage": {
+      "close": -8,
+      "long": 15
+    },
+    "range": {
+      "close": 28,
+      "long": 6
+    },
+    "recoil": {
+      "horizontal": 0,
+      "vertical": 0,
+      "variation": 0
+    },
+    "inaccuracy": {
+      "minimum": 0,
+      "maximum": 0,
+      "gainPerShot": 0,
+      "lossPerSecond": 0
+    }
+  },
+  "information": {
+    "consumable": true,
+    "faction": {
+      "germany": false,
+      "sovietUnion": false,
+      "unitedStates": true
+    },
+    "name": "United Defense Ranger",
+    "price": {
+      "purchase": {
+        "credits": 1700,
+        "gold": 20
+      }
+    },
+    "quantity": 1000
+  }
+}
